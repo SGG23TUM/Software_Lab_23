@@ -1,0 +1,129 @@
+{
+    "image_id": "IMG_8908",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1052.0,
+            "y": 237.5,
+            "w": 2104.0,
+            "h": 475.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1695.2222290039062,
+            "y": 1430.3333129882812,
+            "w": 679.5555419921875,
+            "h": 593.3333740234375,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 123.5,
+            "y": 1497.0,
+            "w": 247.0,
+            "h": 460.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2516.5555419921875,
+            "y": 1168.0,
+            "w": 148.888916015625,
+            "h": 1118.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 330.3643798828125,
+            "y": 128.13765335083008,
+            "w": 124.69635009765625,
+            "h": 86.23482513427734,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1023.0769348144531,
+            "y": 92.10526275634766,
+            "w": 176.51824951171875,
+            "h": 156.68016052246094,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1290.4761962890625,
+            "y": 1504.3651123046875,
+            "w": 84.126953125,
+            "h": 84.920654296875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

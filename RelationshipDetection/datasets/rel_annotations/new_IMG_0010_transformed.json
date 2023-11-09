@@ -1,0 +1,61 @@
+{
+    "image_id": "IMG_0010",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1321.8888854980469,
+            "y": 1092.5555572509766,
+            "w": 1226.2222290039062,
+            "h": 1268.8888854980469,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 581.8840637207031,
+            "y": 897.1014404296875,
+            "w": 195.65216064453125,
+            "h": 171.0145263671875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 1994.339599609375,
+            "y": 934.9056701660156,
+            "w": 83.018798828125,
+            "h": 84.90570068359375,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "image_id": "IMG_8768",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1281.5,
+            "y": 1435.7142944335938,
+            "w": 2563.0,
+            "h": 582.5714111328125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 632.75,
+            "y": 633.5,
+            "w": 1265.5,
+            "h": 1267.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1897.5,
+            "y": 607.25,
+            "w": 1387.0,
+            "h": 1214.5,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 2363.25,
+            "y": 1028.0,
+            "w": 455.5,
+            "h": 1398.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "mounted on"
+        }
+    ]
+}

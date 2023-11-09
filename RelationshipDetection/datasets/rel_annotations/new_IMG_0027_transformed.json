@@ -1,0 +1,168 @@
+{
+    "image_id": "IMG_0027",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1044.0,
+            "y": 863.5,
+            "w": 552.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1982.0,
+            "y": 863.5,
+            "w": 1218.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 115.25,
+            "y": 1105.5,
+            "w": 230.5,
+            "h": 1243.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 67.75,
+            "y": 1675.75,
+            "w": 135.5,
+            "h": 102.5,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 420.25,
+            "y": 863.5,
+            "w": 840.5,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2328.0,
+            "y": 1066.5,
+            "w": 526.0,
+            "h": 1321.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 99.25,
+            "y": 1079.5,
+            "w": 102.5,
+            "h": 305.0,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1204.0,
+            "y": 1413.25,
+            "w": 538.0,
+            "h": 627.5,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 1349.0,
+            "y": 561.0,
+            "w": 122.0,
+            "h": 1122.0,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1998.0,
+            "y": 1682.0,
+            "w": 70.0,
+            "h": 90.0,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 900.3623046875,
+            "y": 1177.5362548828125,
+            "w": 34.0579833984375,
+            "h": 56.521728515625,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

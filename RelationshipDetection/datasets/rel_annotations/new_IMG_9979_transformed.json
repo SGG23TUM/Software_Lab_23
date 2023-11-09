@@ -1,0 +1,123 @@
+{
+    "image_id": "IMG_9979",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1813.1071166992188,
+            "y": 863.5,
+            "w": 1555.7857666015625,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 212.5,
+            "y": 863.5,
+            "w": 425.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2267.5,
+            "y": 1609.5,
+            "w": 647.0,
+            "h": 235.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 976.0,
+            "y": 1692.5555419921875,
+            "w": 514.0,
+            "h": 68.888916015625,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 746.2777709960938,
+            "y": 863.5,
+            "w": 679.4444580078125,
+            "h": 1727.0,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 273.2222213745117,
+            "y": 1158.1111450195312,
+            "w": 111.11109924316406,
+            "h": 404.4444580078125,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2113.0689697265625,
+            "y": 841.3793029785156,
+            "w": 46.551513671875,
+            "h": 72.41375732421875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 172.55172729492188,
+            "y": 988.7931213378906,
+            "w": 96.55172729492188,
+            "h": 112.06903076171875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

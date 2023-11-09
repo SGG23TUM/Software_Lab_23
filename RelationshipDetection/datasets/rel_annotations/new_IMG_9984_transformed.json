@@ -1,0 +1,134 @@
+{
+    "image_id": "IMG_9984",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1607.9365539550781,
+            "y": 807.1428298950195,
+            "w": 1279.3651733398438,
+            "h": 1211.111068725586,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1655.8182373046875,
+            "y": 1402.8939208984375,
+            "w": 1015.636474609375,
+            "h": 648.212158203125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2184.857177734375,
+            "y": 1376.8333129882812,
+            "w": 67.71435546875,
+            "h": 700.3333740234375,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1612.4761962890625,
+            "y": 941.1190490722656,
+            "w": 1602.952392578125,
+            "h": 1571.7619018554688,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1762.0,
+            "y": 830.8333435058594,
+            "w": 246.666748046875,
+            "h": 515.0000610351562,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2125.3333740234375,
+            "y": 847.5,
+            "w": 206.666748046875,
+            "h": 485.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 487.9746856689453,
+            "y": 1040.50634765625,
+            "w": 181.01266479492188,
+            "h": 473.417724609375,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 1854.2499389648438,
+            "y": 312.3333282470703,
+            "w": 904.1666259765625,
+            "h": 191.66665649414062,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        }
+    ]
+}

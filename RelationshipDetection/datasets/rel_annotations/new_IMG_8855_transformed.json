@@ -1,0 +1,78 @@
+{
+    "image_id": "IMG_8855",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1355.5,
+            "w": 2591.0,
+            "h": 743.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1655.5,
+            "y": 502.5252380371094,
+            "w": 1871.0,
+            "h": 1005.0504760742188,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 278.5,
+            "y": 139.05555725097656,
+            "w": 557.0,
+            "h": 278.1111145019531,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1187.5,
+            "y": 1007.3611145019531,
+            "w": 2375.0,
+            "h": 945.2777709960938,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 2377.9036865234375,
+            "y": 614.5892333984375,
+            "w": 177.337158203125,
+            "h": 106.798828125,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        }
+    ]
+}

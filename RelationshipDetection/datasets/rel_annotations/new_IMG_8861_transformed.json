@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_8861",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 656.8333129882812,
+            "w": 2591.0,
+            "h": 1313.6666259765625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1641.0,
+            "y": 723.6666717529297,
+            "w": 491.111083984375,
+            "h": 1055.5555725097656,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 197.72222900390625,
+            "y": 729.0,
+            "w": 395.4444580078125,
+            "h": 1214.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 2331.0,
+            "y": 728.1111297607422,
+            "w": 342.22216796875,
+            "h": 1064.4444885253906,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1468.111083984375,
+            "w": 2591.0,
+            "h": 517.77783203125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 459.0,
+            "y": 744.75,
+            "w": 46.0,
+            "h": 45.5,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1331.521728515625,
+            "y": 472.8260955810547,
+            "w": 67.391357421875,
+            "h": 76.08694458007812,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

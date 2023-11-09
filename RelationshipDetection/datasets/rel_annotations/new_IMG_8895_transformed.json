@@ -1,0 +1,145 @@
+{
+    "image_id": "IMG_8895",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1724.0,
+            "y": 1319.6666564941406,
+            "w": 1734.0,
+            "h": 814.6666870117188,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1197.375,
+            "y": 566.5833129882812,
+            "w": 188.75,
+            "h": 1133.1666259765625,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 594.8333129882812,
+            "y": 863.5,
+            "w": 1189.6666259765625,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1322.4031982421875,
+            "y": 532.2083129882812,
+            "w": 206.806396484375,
+            "h": 1064.4166259765625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2053.0927734375,
+            "y": 69.07216554880142,
+            "w": 143.298828125,
+            "h": 136.08247554302216,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1973.2222290039062,
+            "y": 483.5,
+            "w": 1235.5555419921875,
+            "h": 967.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 1355.7850952148438,
+            "y": 351.23968505859375,
+            "w": 64.4627685546875,
+            "h": 356.1983642578125,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1113.22314453125,
+            "y": 427.2727355957031,
+            "w": 38.0166015625,
+            "h": 65.28924560546875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 954.8571472167969,
+            "y": 131.0357186794281,
+            "w": 221.42852783203125,
+            "h": 255.3571515083313,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1092.5,
+            "y": 27.5,
+            "w": 25.0,
+            "h": 50.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

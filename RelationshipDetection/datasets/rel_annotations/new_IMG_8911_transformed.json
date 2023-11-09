@@ -1,0 +1,213 @@
+{
+    "image_id": "IMG_8911",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1996.0,
+            "y": 1704.4642944335938,
+            "w": 638.0,
+            "h": 45.0714111328125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2532.111083984375,
+            "y": 1302.5,
+            "w": 117.77783203125,
+            "h": 849.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 306.6111145019531,
+            "y": 453.6666793823242,
+            "w": 613.2222290039062,
+            "h": 564.4444732666016,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 916.4693603515625,
+            "y": 314.77777099609375,
+            "w": 308.716552734375,
+            "h": 197.77777099609375,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1692.3181762695312,
+            "y": 961.0,
+            "w": 1797.3636474609375,
+            "h": 1532.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 786.1363525390625,
+            "y": 774.7727279663086,
+            "w": 1572.272705078125,
+            "h": 1066.4545440673828,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 841.9642944335938,
+            "y": 1562.1607055664062,
+            "w": 1683.9285888671875,
+            "h": 329.6785888671875,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 1808.3904418945312,
+            "y": 1490.4110107421875,
+            "w": 342.8082275390625,
+            "h": 250.0,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 399.8928527832031,
+            "w": 2591.0,
+            "h": 799.7857055664062,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 10,
+            "x": 1923.8255615234375,
+            "y": 761.0738220214844,
+            "w": 101.34228515625,
+            "h": 72.48321533203125,
+            "names": [
+                "escape sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2139.5972900390625,
+            "y": 113.08724975585938,
+            "w": 127.516845703125,
+            "h": 102.6845703125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1146.3087768554688,
+            "y": 30.201341927051544,
+            "w": 144.9664306640625,
+            "h": 57.718119978904724,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 2463.908447265625,
+            "y": 146.6549301147461,
+            "w": 36.9716796875,
+            "h": 34.85914611816406,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1816.1972045898438,
+            "y": 208.97887420654297,
+            "w": 45.0704345703125,
+            "h": 27.816909790039062,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 10,
+            "object_id": 1,
+            "predicate": "hanging from",
+            "relationship_id": 1
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

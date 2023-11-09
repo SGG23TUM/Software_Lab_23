@@ -1,0 +1,135 @@
+{
+    "image_id": "IMG_8871",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 484.71429443359375,
+            "w": 2591.0,
+            "h": 969.4285888671875,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1071.0,
+            "w": 2591.0,
+            "h": 1312.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 949.48779296875,
+            "y": 1695.9634399414062,
+            "w": 503.0244140625,
+            "h": 62.0731201171875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1960.1695556640625,
+            "y": 214.40678024291992,
+            "w": 211.864501953125,
+            "h": 191.52542877197266,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1006.1764526367188,
+            "y": 702.0588073730469,
+            "w": 151.1763916015625,
+            "h": 125.29412841796875,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 435.58824157714844,
+            "y": 596.7646789550781,
+            "w": 117.05880737304688,
+            "h": 78.23529052734375,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 2269.5,
+            "y": 1667.0,
+            "w": 459.0,
+            "h": 120.0,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1646.5,
+            "y": 1708.111083984375,
+            "w": 303.0,
+            "h": 37.77783203125,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

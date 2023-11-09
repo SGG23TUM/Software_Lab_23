@@ -1,0 +1,39 @@
+{
+    "image_id": "IMG_9973",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1084.3333740234375,
+            "y": 257.00000762939453,
+            "w": 168.888916015625,
+            "h": 166.6666717529297,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

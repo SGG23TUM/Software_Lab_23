@@ -1,0 +1,72 @@
+{
+    "image_id": "IMG_0078",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 823.5,
+            "w": 2591.0,
+            "h": 1647.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1657.0,
+            "w": 2591.0,
+            "h": 140.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 1959.5,
+            "y": 531.0,
+            "w": 1263.0,
+            "h": 1062.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 2027.0,
+            "y": 1321.5,
+            "w": 1128.0,
+            "h": 469.0,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 445.0357208251953,
+            "y": 804.25,
+            "w": 66.07144165039062,
+            "h": 66.0714111328125,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

@@ -1,0 +1,175 @@
+{
+    "image_id": "IMG_9094",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1162.403076171875,
+            "y": 706.9767456054688,
+            "w": 284.49609375,
+            "h": 258.9146728515625,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 1511.2403564453125,
+            "y": 991.472900390625,
+            "w": 163.56591796875,
+            "h": 119.3798828125,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1792.248046875,
+            "y": 1269.3798217773438,
+            "w": 200.0,
+            "h": 165.1163330078125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2125.1937255859375,
+            "y": 1566.279052734375,
+            "w": 152.713134765625,
+            "h": 123.255859375,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 2231.782958984375,
+            "y": 1645.7363891601562,
+            "w": 93.0234375,
+            "h": 62.0155029296875,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2329.0697021484375,
+            "y": 1712.0155029296875,
+            "w": 121.705322265625,
+            "h": 28.68212890625,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 365.89146423339844,
+            "y": 1566.2791137695312,
+            "w": 170.54263305664062,
+            "h": 141.8604736328125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 523.4782562255859,
+            "y": 69.56522059440613,
+            "w": 137.39126586914062,
+            "h": 125.2173981666565,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1968.7969970703125,
+            "y": 1401.3157958984375,
+            "w": 64.66162109375,
+            "h": 46.992431640625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

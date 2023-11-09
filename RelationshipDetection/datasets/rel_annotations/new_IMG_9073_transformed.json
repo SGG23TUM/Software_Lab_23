@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_9073",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 838.0,
+            "w": 2591.0,
+            "h": 1676.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1374.7777709960938,
+            "w": 2591.0,
+            "h": 704.4444580078125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 1067.5925903320312,
+            "y": 199.53704452514648,
+            "w": 225.9259033203125,
+            "h": 197.22223663330078,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1842.129638671875,
+            "y": 597.2222137451172,
+            "w": 287.962890625,
+            "h": 272.2221984863281,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 2424.922119140625,
+            "y": 849.53271484375,
+            "w": 95.3271484375,
+            "h": 72.897216796875,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "image_id": "IMG_9987",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 549.5,
+            "y": 863.5,
+            "w": 1099.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1787.0,
+            "y": 863.5,
+            "w": 1422.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 49.433963775634766,
+            "y": 305.0,
+            "w": 98.86792755126953,
+            "h": 272.0,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 704.6666564941406,
+            "y": 806.6666564941406,
+            "w": 86.66668701171875,
+            "h": 117.33331298828125,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 754.0,
+            "y": 1334.0,
+            "w": 177.3333740234375,
+            "h": 414.666748046875,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2544.394775390625,
+            "y": 859.7894897460938,
+            "w": 93.21044921875,
+            "h": 1719.5789794921875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        }
+    ]
+}

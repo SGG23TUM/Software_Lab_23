@@ -1,0 +1,219 @@
+{
+    "image_id": "IMG_8868",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 5,
+            "x": 1087.75,
+            "y": 1044.5,
+            "w": 2175.5,
+            "h": 1365.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1280.5,
+            "y": 1623.25,
+            "w": 245.0,
+            "h": 207.5,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1271.2982177734375,
+            "y": 1497.368408203125,
+            "w": 236.842041015625,
+            "h": 43.859619140625,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 584.920654296875,
+            "y": 1559.2222290039062,
+            "w": 1169.84130859375,
+            "h": 335.5555419921875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 973.1282348632812,
+            "y": 333.1923065185547,
+            "w": 1946.2564697265625,
+            "h": 393.6153869628906,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2282.7307739257812,
+            "y": 863.5,
+            "w": 616.5384521484375,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 999.7222425937653,
+            "y": 158.5,
+            "w": 1997.2222628593445,
+            "h": 317.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 1182.5581359863281,
+            "y": 1420.9302368164062,
+            "w": 411.62786865234375,
+            "h": 139.5347900390625,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 2093.227294921875,
+            "y": 1499.5454711914062,
+            "w": 103.54541015625,
+            "h": 454.9090576171875,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 1998.4090576171875,
+            "y": 657.454517364502,
+            "w": 165.908935546875,
+            "h": 1145.454490661621,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1192.7536315917969,
+            "y": 1524.6376953125,
+            "w": 394.20294189453125,
+            "h": 43.478271484375,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1298.5507202148438,
+            "y": 1602.1739501953125,
+            "w": 194.2030029296875,
+            "h": 30.434814453125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 514.9193572998047,
+            "y": 116.93548202514648,
+            "w": 68.54837036132812,
+            "h": 69.3548355102539,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 512.8928489685059,
+            "y": 925.6785583496094,
+            "w": 930.3571243286133,
+            "h": 726.7857055664062,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

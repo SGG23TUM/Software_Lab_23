@@ -1,0 +1,135 @@
+{
+    "image_id": "IMG_8850",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 625.0,
+            "w": 2591.0,
+            "h": 1250.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1382.5,
+            "w": 2591.0,
+            "h": 689.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2575.5814208984375,
+            "y": 212.01549530029297,
+            "w": 25.581298828125,
+            "h": 160.46510314941406,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2460.2940673828125,
+            "y": 984.11767578125,
+            "w": 154.705810546875,
+            "h": 121.176513671875,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1520.88232421875,
+            "y": 866.1764831542969,
+            "w": 170.0,
+            "h": 141.76470947265625,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 887.6470642089844,
+            "y": 759.7059020996094,
+            "w": 125.88238525390625,
+            "h": 88.82354736328125,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 231.47058868408203,
+            "y": 702.0588073730469,
+            "w": 200.58824157714844,
+            "h": 174.70587158203125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 2001.5580444335938,
+            "y": 899.0084838867188,
+            "w": 62.0396728515625,
+            "h": 41.64306640625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

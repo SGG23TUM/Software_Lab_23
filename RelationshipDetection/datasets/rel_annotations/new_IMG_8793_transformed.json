@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_8793",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 5,
+            "x": 2121.0,
+            "y": 1101.0,
+            "w": 940.0,
+            "h": 1252.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1535.353515625,
+            "y": 1280.8080444335938,
+            "w": 145.45458984375,
+            "h": 58.5858154296875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 840.5713958740234,
+            "y": 929.25,
+            "w": 664.2856750488281,
+            "h": 544.642822265625,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1558.3333129882812,
+            "y": 901.1904907226562,
+            "w": 97.6190185546875,
+            "h": 103.96826171875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

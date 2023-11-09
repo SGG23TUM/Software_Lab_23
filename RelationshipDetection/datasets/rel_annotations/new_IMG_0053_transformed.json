@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_0053",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1506.5,
+            "y": 897.0,
+            "w": 577.0,
+            "h": 1660.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1879.25,
+            "y": 834.5,
+            "w": 127.5,
+            "h": 200.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2526.75,
+            "y": 1634.5,
+            "w": 112.5,
+            "h": 175.0,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 580.1470642089844,
+            "y": 1004.4117431640625,
+            "w": 239.70587158203125,
+            "h": 411.7646484375,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        }
+    ]
+}

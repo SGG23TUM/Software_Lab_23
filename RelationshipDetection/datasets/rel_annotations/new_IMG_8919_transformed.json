@@ -1,0 +1,201 @@
+{
+    "image_id": "IMG_8919",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1444.7777709960938,
+            "w": 2591.0,
+            "h": 564.4444580078125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2085.4444580078125,
+            "y": 631.2777709960938,
+            "w": 486.666748046875,
+            "h": 1262.5555419921875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2425.4444580078125,
+            "y": 424.6111145019531,
+            "w": 331.111083984375,
+            "h": 849.2222290039062,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1401.3888854980469,
+            "y": 614.611083984375,
+            "w": 1647.2222290039062,
+            "h": 1229.22216796875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 331.5,
+            "y": 281.0,
+            "w": 663.0,
+            "h": 562.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 456.7901306152344,
+            "y": 1094.3148193359375,
+            "w": 913.5802612304688,
+            "h": 529.370361328125,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 2433.642822265625,
+            "y": 1080.5,
+            "w": 314.71435546875,
+            "h": 663.0,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 1454.0498657226562,
+            "y": 972.585693359375,
+            "w": 217.7569580078125,
+            "h": 342.67919921875,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2364.5,
+            "y": 637.5,
+            "w": 41.0,
+            "h": 61.0,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 2416.75,
+            "y": 319.0,
+            "w": 72.5,
+            "h": 95.0,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 2421.0,
+            "y": 410.5,
+            "w": 79.0,
+            "h": 100.0,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 2557.75,
+            "y": 279.5,
+            "w": 66.5,
+            "h": 237.0,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2331.0439453125,
+            "y": 292.03297424316406,
+            "w": 59.89013671875,
+            "h": 109.34066772460938,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 10,
+            "x": 1254.375,
+            "y": 71.875,
+            "w": 151.25,
+            "h": 86.25,
+            "names": [
+                "escape sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

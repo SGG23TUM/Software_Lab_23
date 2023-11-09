@@ -1,0 +1,1 @@
+{"image_id": "IMG_9974", "width": 2592, "height": 1728, "coco_id": null, "flickr_id": null, "objects": [{"object_id": 1, "x": 1295.5, "y": 863.5, "w": 2591.0, "h": 1727.0, "names": ["ceiling"], "synsets": []}, {"object_id": 6, "x": 1929.25, "y": 748.25, "w": 187.5, "h": 182.5, "names": ["smoke alarm"], "synsets": []}]}

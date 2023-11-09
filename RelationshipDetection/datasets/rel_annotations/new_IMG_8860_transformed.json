@@ -1,0 +1,106 @@
+{
+    "image_id": "IMG_8860",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1510.7142944335938,
+            "w": 2591.0,
+            "h": 432.5714111328125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2157.6666870117188,
+            "y": 798.1111145019531,
+            "w": 506.6666259765625,
+            "h": 1057.7777709960938,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 599.8889007568359,
+            "y": 801.4444732666016,
+            "w": 640.0000305175781,
+            "h": 1206.6667175292969,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 710.0,
+            "w": 2591.0,
+            "h": 1420.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 978.0141906738281,
+            "y": 819.858154296875,
+            "w": 43.97161865234375,
+            "h": 42.55322265625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1844.2857055664062,
+            "y": 545.7142791748047,
+            "w": 69.5238037109375,
+            "h": 76.19046020507812,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 190.47618865966797,
+            "y": 515.2380828857422,
+            "w": 85.71427917480469,
+            "h": 85.71426391601562,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

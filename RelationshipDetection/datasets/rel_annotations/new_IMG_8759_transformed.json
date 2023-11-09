@@ -1,0 +1,231 @@
+{
+    "image_id": "IMG_8759",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 503.3057861328125,
+            "w": 2591.0,
+            "h": 1006.611572265625,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 652.5454711914062,
+            "y": 1287.7272644042969,
+            "w": 1305.0909423828125,
+            "h": 878.5454711914062,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1963.25,
+            "y": 1202.0,
+            "w": 1255.5,
+            "h": 1050.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 802.994873046875,
+            "y": 1361.4375,
+            "w": 1459.98974609375,
+            "h": 731.125,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1826.1764526367188,
+            "y": 646.7647094726562,
+            "w": 138.2352294921875,
+            "h": 108.823486328125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 1477.3529052734375,
+            "y": 737.6470642089844,
+            "w": 88.823486328125,
+            "h": 52.94122314453125,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1173.4146728515625,
+            "y": 849.756103515625,
+            "w": 111.707275390625,
+            "h": 88.780517578125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 243.63636016845703,
+            "y": 714.242431640625,
+            "w": 134.5454559326172,
+            "h": 108.48486328125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 844.242431640625,
+            "y": 433.63636779785156,
+            "w": 164.8485107421875,
+            "h": 141.21212768554688,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1800.6060791015625,
+            "y": 43.33333206176758,
+            "w": 214.54541015625,
+            "h": 86.66666412353516,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 2281.8697509765625,
+            "y": 479.4617614746094,
+            "w": 59.489990234375,
+            "h": 43.3427734375,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 902.2123718261719,
+            "y": 915.1327514648438,
+            "w": 33.09735107421875,
+            "h": 29.5574951171875,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 1327.15234375,
+            "y": 1267.8807983398438,
+            "w": 56.95361328125,
+            "h": 545.0330810546875,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 863.013671875,
+            "y": 1317.8081665039062,
+            "w": 397.26025390625,
+            "h": 347.9451904296875,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

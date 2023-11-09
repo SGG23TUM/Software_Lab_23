@@ -1,0 +1,145 @@
+{
+    "image_id": "IMG_8828",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1395.25,
+            "y": 1530.3571166992188,
+            "w": 2391.5,
+            "h": 393.2857666015625,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1521.75,
+            "y": 775.75,
+            "w": 1142.5,
+            "h": 1357.5,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 751.0,
+            "w": 2591.0,
+            "h": 1502.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 145.6923065185547,
+            "y": 1287.5,
+            "w": 291.3846130371094,
+            "h": 879.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 2489.6097412109375,
+            "y": 1128.0853881835938,
+            "w": 202.780517578125,
+            "h": 454.1707763671875,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2154.51806640625,
+            "y": 725.9036254882812,
+            "w": 50.0,
+            "h": 51.8072509765625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 2283.6363525390625,
+            "y": 440.9090881347656,
+            "w": 82.727294921875,
+            "h": 77.272705078125,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 2287.2728271484375,
+            "y": 522.2727203369141,
+            "w": 87.272705078125,
+            "h": 85.45455932617188,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 2517.6136474609375,
+            "y": 429.54547119140625,
+            "w": 144.318115234375,
+            "h": 186.3636474609375,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2123.25,
+            "y": 401.5,
+            "w": 86.5,
+            "h": 91.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

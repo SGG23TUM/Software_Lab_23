@@ -1,0 +1,382 @@
+new_IMG_8925_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_0019_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9978_transformed.json: Actual: next to, Predicted: attached to
+new_IMG_8834_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8726_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9094_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8748_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8764_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8837_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8917_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8831_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8847_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0023_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8720_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9995_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8873_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8783_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8721_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8904_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0053_transformed.json: Actual: attached to, Predicted: fixed on
+new_IMG_8818_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8868_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8892_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_0038_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_8797_transformed.json: Actual: attached to, Predicted: mounted on
+new_IMG_0026_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9021_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9051_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8890_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8768_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8817_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9034_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9027_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0043_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8895_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8902_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8899_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8761_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9069_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8760_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0081_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8719_transformed.json: Actual: fixed on, Predicted: next to
+new_IMG_8757_transformed.json: Actual: next to, Predicted: next to
+new_IMG_9036_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9055_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8726_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8910_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0018_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8911_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8875_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8837_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8934_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0043_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0069_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8847_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9073_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8722_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8802_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9024_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9052_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8845_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8810_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9986_transformed.json: Actual: mounted on, Predicted: fixed on
+new_IMG_0069_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8889_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9984_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8903_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8775_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8907_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9023_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8890_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9996_transformed.json: Actual: attached to, Predicted: has opening in
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8838_transformed.json: Actual: hanging from, Predicted: hanging from
+new_IMG_8917_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9053_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8824_transformed.json: Actual: has opening in, Predicted: mounted on
+new_IMG_0006_transformed.json: Actual: attached to, Predicted: fixed on
+new_IMG_8763_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9058_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8779_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8901_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9088_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8759_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9042_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0085_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9038_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9037_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8742_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8920_transformed.json: Actual: hanging from, Predicted: mounted on
+new_IMG_8726_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9088_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8898_transformed.json: Actual: has opening in, Predicted: attached to
+new_IMG_8731_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8729_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8833_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8837_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9052_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8777_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0080_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8908_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9054_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0036_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8829_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8761_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0020_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8910_transformed.json: Actual: hanging from, Predicted: mounted on
+new_IMG_9044_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8793_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0019_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0072_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9970_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9018_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9976_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8787_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0089_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8728_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8758_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8858_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_8815_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9046_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9972_transformed.json: Actual: next to, Predicted: attached to
+new_IMG_9042_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8903_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8763_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8835_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8855_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_8799_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8779_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8763_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8905_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8745_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8865_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0045_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8834_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_9997_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8741_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8747_transformed.json: Actual: next to, Predicted: next to
+new_IMG_0043_transformed.json: Actual: next to, Predicted: next to
+new_IMG_9043_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_9040_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8828_transformed.json: Actual: placed on, Predicted: fixed on
+new_IMG_0046_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9055_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8874_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8838_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9069_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9038_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8746_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8872_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8933_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8925_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8778_transformed.json: Actual: next to, Predicted: next to
+new_IMG_0005_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0072_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8728_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0070_transformed.json: Actual: hanging from, Predicted: mounted on
+new_IMG_9040_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8780_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8728_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_9067_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8825_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0035_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8931_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8887_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9977_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8900_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9962_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8817_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8757_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8726_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9036_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8840_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8762_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8901_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0019_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9026_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8795_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8747_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8818_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8913_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8760_transformed.json: Actual: has opening in, Predicted: fixed on
+new_IMG_8781_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9095_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8727_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9021_transformed.json: Actual: fixed on, Predicted: has opening in
+new_IMG_0034_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9043_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8875_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8906_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8742_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8796_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8904_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8836_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0007_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8819_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0037_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0052_transformed.json: Actual: has opening in, Predicted: fixed on
+new_IMG_0022_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9035_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0033_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9038_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8767_transformed.json: Actual: placed on, Predicted: fixed on
+new_IMG_9036_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8911_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0011_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8818_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0043_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8903_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8797_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8845_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_9026_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9016_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0046_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0044_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0093_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_0039_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8719_transformed.json: Actual: fixed on, Predicted: next to
+new_IMG_9045_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8715_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9088_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9988_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0040_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0069_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9036_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0013_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8775_transformed.json: Actual: next to, Predicted: next to
+new_IMG_0092_transformed.json: Actual: equipped with, Predicted: has opening in
+new_IMG_8836_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9058_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0075_transformed.json: Actual: attached to, Predicted: fixed on
+new_IMG_0013_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8888_transformed.json: Actual: attached to, Predicted: fixed on
+new_IMG_9043_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0038_transformed.json: Actual: fixed on, Predicted: mounted on
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0032_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8822_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8764_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9999_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9069_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8764_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8743_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8867_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9095_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8834_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8755_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8850_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0011_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8866_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8923_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_9069_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9056_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8851_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0013_transformed.json: Actual: next to, Predicted: next to
+new_IMG_9969_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8908_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9992_transformed.json: Actual: placed on, Predicted: equipped with
+new_IMG_9020_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8836_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8777_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8833_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0007_transformed.json: Actual: placed on, Predicted: has opening in
+new_IMG_8838_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8830_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_8814_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8898_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_8731_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8729_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9024_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9028_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8872_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9032_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0011_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8836_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0034_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8759_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8716_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9971_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8757_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8904_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8917_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_8910_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8759_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8747_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_9052_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9968_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0035_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8830_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9016_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0073_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9978_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8741_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9100_transformed.json: Actual: mounted on, Predicted: fixed on
+new_IMG_9052_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8901_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9039_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9985_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9022_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9034_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0022_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8726_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8742_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8835_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8865_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9026_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8824_transformed.json: Actual: has opening in, Predicted: mounted on
+new_IMG_9100_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0035_transformed.json: Actual: hanging from, Predicted: mounted on
+new_IMG_8746_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8889_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_9049_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8918_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0050_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8863_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0012_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8740_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8886_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8748_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8729_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8906_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8722_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8835_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8802_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8718_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_9024_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8833_transformed.json: Actual: next to, Predicted: next to
+new_IMG_0089_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9021_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9029_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9041_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8859_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8759_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8737_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8765_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9088_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8837_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_0048_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8876_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0043_transformed.json: Actual: fixed on, Predicted: has opening in
+new_IMG_9067_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8765_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8773_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8868_transformed.json: Actual: next to, Predicted: next to
+new_IMG_9051_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8826_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8748_transformed.json: Actual: attached to, Predicted: attached to
+new_IMG_8773_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8895_transformed.json: Actual: equipped with, Predicted: equipped with
+new_IMG_8777_transformed.json: Actual: next to, Predicted: fixed on
+new_IMG_0013_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8762_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0048_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_0011_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8866_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8865_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8760_transformed.json: Actual: next to, Predicted: next to
+new_IMG_0085_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9984_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9058_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9042_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8724_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_9044_transformed.json: Actual: fixed on, Predicted: has opening in
+new_IMG_8804_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8757_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8761_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9057_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9023_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8820_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9993_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8743_transformed.json: Actual: next to, Predicted: next to
+new_IMG_8910_transformed.json: Actual: fixed on, Predicted: mounted on
+new_IMG_0035_transformed.json: Actual: fixed on, Predicted: fixed on
+new_IMG_8758_transformed.json: Actual: has opening in, Predicted: has opening in
+new_IMG_8874_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_9971_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8783_transformed.json: Actual: placed on, Predicted: placed on
+new_IMG_8760_transformed.json: Actual: mounted on, Predicted: mounted on
+new_IMG_8803_transformed.json: Actual: has opening in, Predicted: has opening in

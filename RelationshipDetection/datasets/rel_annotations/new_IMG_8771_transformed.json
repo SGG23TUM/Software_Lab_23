@@ -1,0 +1,89 @@
+{
+    "image_id": "IMG_8771",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1549.5,
+            "w": 2591.0,
+            "h": 355.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 730.0,
+            "w": 2591.0,
+            "h": 1460.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2413.2744140625,
+            "y": 706.6371459960938,
+            "w": 159.2919921875,
+            "h": 69.9114990234375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1676.1363525390625,
+            "y": 369.31818199157715,
+            "w": 668.181884765625,
+            "h": 611.3636360168457,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2435.5704345703125,
+            "y": 292.6174545288086,
+            "w": 110.067138671875,
+            "h": 123.48994445800781,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 47.96428680419922,
+            "y": 1105.2857055664062,
+            "w": 95.92857360839844,
+            "h": 557.4285888671875,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "image_id": "IMG_9034",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 855.5,
+            "w": 2591.0,
+            "h": 1711.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1418.5,
+            "w": 2591.0,
+            "h": 617.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 163.27777099609375,
+            "y": 395.5,
+            "w": 326.5555419921875,
+            "h": 467.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2310.3226318359375,
+            "y": 851.6129150390625,
+            "w": 188.386962890625,
+            "h": 156.1290283203125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2046.45166015625,
+            "y": 97.74193572998047,
+            "w": 286.45166015625,
+            "h": 195.48387145996094,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 2318.75,
+            "y": 1032.75,
+            "w": 50.5,
+            "h": 44.5,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1587.8424682617188,
+            "y": 914.2123413085938,
+            "w": 64.7259521484375,
+            "h": 42.8082275390625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 525.6428833007812,
+            "y": 827.8571472167969,
+            "w": 1051.2857666015625,
+            "h": 838.2857055664062,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

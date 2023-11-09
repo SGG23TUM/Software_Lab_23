@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_9999",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1996.5,
+            "y": 1691.4444580078125,
+            "w": 1189.0,
+            "h": 71.111083984375,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 963.2222290039062,
+            "y": 1711.4444580078125,
+            "w": 402.2222900390625,
+            "h": 26.666748046875,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 905.4444580078125,
+            "y": 1161.4444580078125,
+            "w": 526.666748046875,
+            "h": 1131.111083984375,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1755.4443969726562,
+            "y": 1145.8888854980469,
+            "w": 444.4444580078125,
+            "h": 1082.2222290039062,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2509.888916015625,
+            "y": 1091.5,
+            "w": 162.22216796875,
+            "h": 1271.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 1357.0707397460938,
+            "y": 1172.2222290039062,
+            "w": 118.1817626953125,
+            "h": 241.4141845703125,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": "next to",
+            "relationship_id": 5
+        }
+    ]
+}

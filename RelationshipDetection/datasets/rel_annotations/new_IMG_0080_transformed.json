@@ -1,0 +1,83 @@
+{
+    "image_id": "IMG_0080",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1120.5,
+            "y": 1106.7222290039062,
+            "w": 1011.0,
+            "h": 1240.5555419921875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1656.0606079101562,
+            "y": 1310.6060791015625,
+            "w": 60.6060791015625,
+            "h": 72.727294921875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1780.6190185546875,
+            "y": 380.2380828857422,
+            "w": 304.761962890625,
+            "h": 345.2380676269531,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 18,
+            "x": 302.21429443359375,
+            "y": 1372.0,
+            "w": 604.4285888671875,
+            "h": 710.0,
+            "names": [
+                "show window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 18,
+            "x": 2209.6190185546875,
+            "y": 1239.0,
+            "w": 762.761962890625,
+            "h": 616.0,
+            "names": [
+                "show window"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

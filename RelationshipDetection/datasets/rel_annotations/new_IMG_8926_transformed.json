@@ -1,0 +1,106 @@
+{
+    "image_id": "IMG_8926",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1368.5,
+            "w": 2591.0,
+            "h": 717.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1894.3333740234375,
+            "y": 661.4444313049316,
+            "w": 624.444580078125,
+            "h": 1113.3333053588867,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 815.0,
+            "w": 2591.0,
+            "h": 1630.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1556.0975341796875,
+            "y": 679.8780517578125,
+            "w": 90.243896484375,
+            "h": 50.0,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 2563.8870849609375,
+            "y": 604.5161437988281,
+            "w": 54.225830078125,
+            "h": 58.06451416015625,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1041.4642944335938,
+            "y": 360.49999618530273,
+            "w": 583.9285888671875,
+            "h": 528.571418762207,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1551.75,
+            "y": 370.25,
+            "w": 61.5,
+            "h": 82.5,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

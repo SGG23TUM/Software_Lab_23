@@ -1,0 +1,67 @@
+{
+    "image_id": "IMG_8881",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 655.5,
+            "w": 2591.0,
+            "h": 1311.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2363.25,
+            "y": 1510.75,
+            "w": 455.5,
+            "h": 432.5,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1732.716064453125,
+            "y": 170.9876605272293,
+            "w": 366.666748046875,
+            "h": 339.50618529319763,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1269.7727661132812,
+            "y": 855.2272644042969,
+            "w": 101.3636474609375,
+            "h": 79.54547119140625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "image_id": "IMG_0062",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 311.19608306884766,
+            "y": 1261.0588073730469,
+            "w": 231.37254333496094,
+            "h": 576.4705200195312,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1261.5,
+            "y": 958.5,
+            "w": 2523.0,
+            "h": 1537.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 93.5,
+            "y": 32.0,
+            "w": 187.0,
+            "h": 64.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 757.0,
+            "y": 20.0,
+            "w": 696.0,
+            "h": 40.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 739.0,
+            "y": 486.0,
+            "w": 756.0,
+            "h": 408.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 1663.0,
+            "y": 547.0,
+            "w": 772.0,
+            "h": 606.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 796.0,
+            "y": 1303.0,
+            "w": 770.0,
+            "h": 466.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 105.5,
+            "y": 1209.5,
+            "w": 211.0,
+            "h": 655.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": []
+}

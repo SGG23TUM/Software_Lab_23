@@ -1,0 +1,72 @@
+{
+    "image_id": "IMG_8931",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1512.5,
+            "y": 1548.5,
+            "w": 2157.0,
+            "h": 357.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 218.5,
+            "y": 863.5,
+            "w": 437.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 741.2105407714844,
+            "y": 1627.23681640625,
+            "w": 644.7368774414062,
+            "h": 199.5263671875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1403.0,
+            "y": 808.4736938476562,
+            "w": 2376.0,
+            "h": 1616.9473876953125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 767.3571166992188,
+            "y": 1134.6071472167969,
+            "w": 935.7142333984375,
+            "h": 1044.6428833007812,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

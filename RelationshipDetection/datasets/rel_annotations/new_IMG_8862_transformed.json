@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_8862",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 787.0,
+            "w": 2591.0,
+            "h": 1574.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1062.5,
+            "y": 923.6110992431641,
+            "w": 475.0,
+            "h": 1049.9999694824219,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1734.4561157226562,
+            "y": 935.9649200439453,
+            "w": 328.0701904296875,
+            "h": 1029.8245544433594,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 2341.4737548828125,
+            "y": 910.5263214111328,
+            "w": 450.877197265625,
+            "h": 1238.5965270996094,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 2004.6358032226562,
+            "y": 956.9536437988281,
+            "w": 76.8211669921875,
+            "h": 229.13909912109375,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1567.0,
+            "w": 2591.0,
+            "h": 320.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 756.3492126464844,
+            "y": 670.2380981445312,
+            "w": 66.66668701171875,
+            "h": 78.5714111328125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": "next to",
+            "relationship_id": 5
+        }
+    ]
+}

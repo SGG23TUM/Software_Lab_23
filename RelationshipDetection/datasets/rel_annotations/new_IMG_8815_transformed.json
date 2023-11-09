@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_8815",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 629.3571166992188,
+            "w": 2591.0,
+            "h": 1258.7142333984375,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1280.3333435058594,
+            "w": 2591.0,
+            "h": 893.3333129882812,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1937.2093505859375,
+            "y": 406.20155334472656,
+            "w": 243.410888671875,
+            "h": 229.45736694335938,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 1175.968994140625,
+            "y": 543.4108428955078,
+            "w": 150.3876953125,
+            "h": 117.82943725585938,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 445.48387145996094,
+            "y": 734.5161437988281,
+            "w": 205.80642700195312,
+            "h": 178.70965576171875,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

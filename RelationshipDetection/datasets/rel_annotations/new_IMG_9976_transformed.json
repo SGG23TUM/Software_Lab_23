@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_9976",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1124.0,
+            "y": 863.5,
+            "w": 2248.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2396.5,
+            "y": 863.5,
+            "w": 389.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2085.5000610351562,
+            "y": 368.5833282470703,
+            "w": 183.3333740234375,
+            "h": 204.16665649414062,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2107.9710693359375,
+            "y": 1035.5072326660156,
+            "w": 91.304443359375,
+            "h": 105.79705810546875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 496.37681579589844,
+            "y": 1109.4202880859375,
+            "w": 128.98550415039062,
+            "h": 123.1884765625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

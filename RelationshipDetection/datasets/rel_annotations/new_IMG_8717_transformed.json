@@ -1,0 +1,95 @@
+{
+    "image_id": "IMG_8717",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1486.0,
+            "w": 2591.0,
+            "h": 482.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2329.1785888671875,
+            "y": 819.0,
+            "w": 523.642822265625,
+            "h": 1208.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 697.2142944335938,
+            "w": 2591.0,
+            "h": 1394.4285888671875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1955.3475952148438,
+            "y": 814.7059020996094,
+            "w": 120.3209228515625,
+            "h": 45.45452880859375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1383.75,
+            "y": 501.875,
+            "w": 552.5,
+            "h": 426.25,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1998.3471069335938,
+            "y": 506.8181915283203,
+            "w": 80.9918212890625,
+            "h": 81.40499877929688,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

@@ -1,0 +1,168 @@
+{
+    "image_id": "IMG_8784",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 549.5,
+            "y": 863.5,
+            "w": 1099.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1824.0,
+            "y": 837.0,
+            "w": 1534.0,
+            "h": 1674.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1286.0,
+            "y": 863.5,
+            "w": 542.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2079.0,
+            "y": 924.0,
+            "w": 280.0,
+            "h": 1160.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 431.0555419921875,
+            "y": 1418.111083984375,
+            "w": 862.111083984375,
+            "h": 617.77783203125,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 702.3148193359375,
+            "y": 617.5925750732422,
+            "w": 212.0369873046875,
+            "h": 537.0370178222656,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1994.0,
+            "y": 1572.5,
+            "w": 1194.0,
+            "h": 309.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1529.8192749023438,
+            "y": 933.1325378417969,
+            "w": 30.7227783203125,
+            "h": 53.01202392578125,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 201.28571605682373,
+            "y": 393.53570556640625,
+            "w": 357.1428623199463,
+            "h": 391.0714111328125,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 960.5072326660156,
+            "y": 453.2608642578125,
+            "w": 80.43475341796875,
+            "h": 141.3043212890625,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1930.9091186523438,
+            "y": 635.0,
+            "w": 36.3636474609375,
+            "h": 85.45458984375,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

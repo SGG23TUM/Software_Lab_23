@@ -1,0 +1,140 @@
+{
+    "image_id": "IMG_8802",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 345.0,
+            "y": 1280.5,
+            "w": 220.0,
+            "h": 893.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1817.0,
+            "y": 1305.5,
+            "w": 496.0,
+            "h": 843.0,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1068.5,
+            "y": 1324.5,
+            "w": 479.0,
+            "h": 805.0,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 1446.7391357421875,
+            "y": 1399.6376953125,
+            "w": 102.173828125,
+            "h": 202.173828125,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 1418.0,
+            "y": 78.0,
+            "w": 2346.0,
+            "h": 156.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2551.71240234375,
+            "y": 1308.0479125976562,
+            "w": 45.20556640625,
+            "h": 41.4383544921875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 23,
+            "x": 2570.890380859375,
+            "y": 1664.7260131835938,
+            "w": 39.041015625,
+            "h": 41.0958251953125,
+            "names": [
+                "stecker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 221.0,
+            "y": 1146.5,
+            "w": 35.0,
+            "h": 86.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

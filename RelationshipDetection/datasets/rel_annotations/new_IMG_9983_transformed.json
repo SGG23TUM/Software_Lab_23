@@ -1,0 +1,43 @@
+{
+    "image_id": "IMG_9983",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 2126.5,
+            "y": 863.5,
+            "w": 929.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 459.5,
+            "y": 863.5,
+            "w": 919.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 1447.5625,
+            "y": 863.5,
+            "w": 1083.125,
+            "h": 1727.0,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": []
+}

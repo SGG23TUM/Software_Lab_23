@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_9041",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 563.5,
+            "w": 2591.0,
+            "h": 1127.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1383.5,
+            "w": 2591.0,
+            "h": 687.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1996.5174560546875,
+            "y": 692.039794921875,
+            "w": 208.955322265625,
+            "h": 182.089599609375,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1796.2328491210938,
+            "y": 941.9520568847656,
+            "w": 52.0548095703125,
+            "h": 61.30133056640625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 1142.636962890625,
+            "y": 682.1918029785156,
+            "w": 77.73974609375,
+            "h": 57.53424072265625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 10,
+            "x": 569.5238037109375,
+            "y": 1688.09521484375,
+            "w": 43.8095703125,
+            "h": 75.238037109375,
+            "names": [
+                "escape sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 222.0,
+            "y": 338.0,
+            "w": 444.0,
+            "h": 676.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 10,
+            "object_id": 1,
+            "predicate": "hanging from",
+            "relationship_id": 1
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+{"image_id": "IMG_8812", "width": 2592, "height": 1728, "coco_id": null, "flickr_id": null, "objects": [{"object_id": 5, "x": 2194.3571166992188, "y": 1121.0, "w": 793.2857666015625, "h": 1212.0, "names": ["door"], "synsets": []}, {"object_id": 4, "x": 1295.5, "y": 863.5, "w": 2591.0, "h": 1727.0, "names": ["wall"], "synsets": []}]}

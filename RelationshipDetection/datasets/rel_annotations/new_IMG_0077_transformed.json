@@ -1,0 +1,32 @@
+{
+    "image_id": "IMG_0077",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 21,
+            "x": 1886.75,
+            "y": 930.75,
+            "w": 1372.5,
+            "h": 1592.5,
+            "names": [
+                "window"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": []
+}

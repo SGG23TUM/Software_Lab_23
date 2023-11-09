@@ -1,0 +1,72 @@
+{
+    "image_id": "IMG_0021",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2305.4444580078125,
+            "y": 1490.5,
+            "w": 571.111083984375,
+            "h": 473.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2336.4091796875,
+            "y": 960.1666564941406,
+            "w": 157.48486328125,
+            "h": 1101.8888549804688,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 18,
+            "x": 1494.25,
+            "y": 897.0,
+            "w": 1402.5,
+            "h": 1425.0,
+            "names": [
+                "show window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 18,
+            "x": 2527.0,
+            "y": 770.75,
+            "w": 128.0,
+            "h": 457.5,
+            "names": [
+                "show window"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

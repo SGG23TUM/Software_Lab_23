@@ -1,0 +1,229 @@
+{
+    "image_id": "IMG_0036",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 531.5,
+            "y": 863.5,
+            "w": 1063.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2200.65380859375,
+            "y": 1150.1730651855469,
+            "w": 185.3076171875,
+            "h": 578.6538696289062,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2356.84619140625,
+            "y": 618.8846435546875,
+            "w": 396.3076171875,
+            "h": 1237.769287109375,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2566.1922607421875,
+            "y": 913.3461303710938,
+            "w": 49.615478515625,
+            "h": 452.6922607421875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2579.65380859375,
+            "y": 316.5,
+            "w": 22.6923828125,
+            "h": 627.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2340.5,
+            "y": 1419.0,
+            "w": 501.0,
+            "h": 616.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1585.0,
+            "y": 863.5,
+            "w": 1164.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2365.6875,
+            "y": 788.0625,
+            "w": 171.875,
+            "h": 896.875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2570.5660400390625,
+            "y": 533.9056701660156,
+            "w": 18.867919921875,
+            "h": 188.67926025390625,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 576.1666564941406,
+            "y": 1215.8333129882812,
+            "w": 98.33331298828125,
+            "h": 108.3333740234375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 809.5,
+            "y": 881.6666564941406,
+            "w": 168.3333740234375,
+            "h": 176.66668701171875,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 812.8333129882812,
+            "y": 703.3333435058594,
+            "w": 155.0,
+            "h": 163.33331298828125,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 18,
+            "x": 2241.9534912109375,
+            "y": 523.046516418457,
+            "w": 237.209228515625,
+            "h": 697.6744232177734,
+            "names": [
+                "show window"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 2508.337158203125,
+            "y": 834.6744384765625,
+            "w": 165.32568359375,
+            "h": 455.81396484375,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 2550.1976318359375,
+            "y": 313.8488464355469,
+            "w": 81.604736328125,
+            "h": 627.6976928710938,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 2512.8836669921875,
+            "y": 1131.18603515625,
+            "w": 62.790771484375,
+            "h": 146.51171875,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        }
+    ]
+}

@@ -1,0 +1,179 @@
+{
+    "image_id": "IMG_8829",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1392.0,
+            "w": 2591.0,
+            "h": 670.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2403.22216796875,
+            "y": 543.5,
+            "w": 375.5556640625,
+            "h": 1087.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 536.611083984375,
+            "y": 625.5,
+            "w": 1073.22216796875,
+            "h": 1251.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 1606.25,
+            "y": 908.8541870117188,
+            "w": 497.916748046875,
+            "h": 536.4583740234375,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1634.4444580078125,
+            "y": 585.7222290039062,
+            "w": 1210.888916015625,
+            "h": 1171.4444580078125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1149.4652099609375,
+            "y": 550.5347595214844,
+            "w": 48.6630859375,
+            "h": 51.87164306640625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 1283.4224853515625,
+            "y": 277.2727279663086,
+            "w": 75.935791015625,
+            "h": 73.26203918457031,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 1284.491943359375,
+            "y": 357.21925354003906,
+            "w": 81.283447265625,
+            "h": 80.21389770507812,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1884.224609375,
+            "y": 361.2299499511719,
+            "w": 150.267333984375,
+            "h": 307.48663330078125,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1554.7619018554688,
+            "y": 278.1746063232422,
+            "w": 225.3968505859375,
+            "h": 173.80953979492188,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1129.75,
+            "y": 231.5,
+            "w": 83.5,
+            "h": 88.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2146.5,
+            "y": 243.5,
+            "w": 70.0,
+            "h": 80.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

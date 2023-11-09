@@ -1,0 +1,145 @@
+{
+    "image_id": "IMG_8920",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1437.0,
+            "w": 2591.0,
+            "h": 580.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2397.6666259765625,
+            "y": 619.0,
+            "w": 386.666748046875,
+            "h": 1238.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1720.9215698242188,
+            "y": 604.611083984375,
+            "w": 1584.1568603515625,
+            "h": 1209.22216796875,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 315.2381057739258,
+            "y": 718.09521484375,
+            "w": 161.90476989746094,
+            "h": 340.952392578125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 150.0416717529297,
+            "y": 66.0,
+            "w": 300.0833435058594,
+            "h": 132.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 636.2069091796875,
+            "y": 1086.3103332519531,
+            "w": 1272.413818359375,
+            "h": 555.3793334960938,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 503.3135681152344,
+            "y": 377.0,
+            "w": 1006.6271362304688,
+            "h": 754.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 1810.9022827148438,
+            "y": 952.819580078125,
+            "w": 221.8045654296875,
+            "h": 345.48876953125,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 1306.6428527832031,
+            "y": 117.64285385608673,
+            "w": 692.8571166992188,
+            "h": 232.1428506374359,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 10,
+            "x": 1609.3214111328125,
+            "y": 50.67857086658478,
+            "w": 151.78564453125,
+            "h": 98.214284658432,
+            "names": [
+                "escape sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        },
+        {
+            "subject_id": 10,
+            "object_id": 1,
+            "predicate": "hanging from",
+            "relationship_id": 1
+        }
+    ]
+}

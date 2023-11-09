@@ -1,0 +1,224 @@
+{
+    "image_id": "IMG_8723",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 2194.4444580078125,
+            "y": 885.3174896240234,
+            "w": 674.603271484375,
+            "h": 850.0000305175781,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 770.0,
+            "y": 703.90625,
+            "w": 1540.0,
+            "h": 1407.8125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2056.9804077148438,
+            "y": 696.3529531508684,
+            "w": 1068.0391845703125,
+            "h": 1392.1568866670132,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 152.6568603515625,
+            "y": 914.9804077148438,
+            "w": 305.313720703125,
+            "h": 986.2745361328125,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 811.1960754394531,
+            "y": 924.7843475341797,
+            "w": 450.98040771484375,
+            "h": 954.9020080566406,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 441.78082275390625,
+            "y": 932.1917724609375,
+            "w": 102.73974609375,
+            "h": 201.369873046875,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2027.8627319335938,
+            "y": 945.3725280761719,
+            "w": 174.5098876953125,
+            "h": 643.1372680664062,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1484.2254638671875,
+            "w": 2591.0,
+            "h": 485.549072265625,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1940.3225708007812,
+            "y": 485.48387145996094,
+            "w": 154.1934814453125,
+            "h": 32.903228759765625,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 10,
+            "x": 2128.3870849609375,
+            "y": 487.0967712402344,
+            "w": 112.258056640625,
+            "h": 21.93548583984375,
+            "names": [
+                "escape sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 23,
+            "x": 1467.1488037109375,
+            "y": 1227.0661010742188,
+            "w": 36.77685546875,
+            "h": 39.2562255859375,
+            "names": [
+                "stecker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1467.9752197265625,
+            "y": 901.4462890625,
+            "w": 35.950439453125,
+            "h": 34.2974853515625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1927.1907348632812,
+            "y": 947.9381408691406,
+            "w": 16.2371826171875,
+            "h": 23.19586181640625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 2326.875,
+            "y": 220.0,
+            "w": 411.25,
+            "h": 380.0,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1924.2481079101562,
+            "y": 807.518798828125,
+            "w": 24.4361572265625,
+            "h": 39.849609375,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 9,
+            "object_id": 16,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

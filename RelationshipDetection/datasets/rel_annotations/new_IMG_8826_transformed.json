@@ -1,0 +1,145 @@
+{
+    "image_id": "IMG_8826",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 2180.9642944335938,
+            "y": 253.4642791748047,
+            "w": 820.0714111328125,
+            "h": 506.9285583496094,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1743.7894897460938,
+            "y": 1382.5,
+            "w": 460.4210205078125,
+            "h": 689.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2489.131591796875,
+            "y": 1461.4473876953125,
+            "w": 203.73681640625,
+            "h": 531.105224609375,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1214.375,
+            "y": 1604.375,
+            "w": 201.25,
+            "h": 241.25,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 323.125,
+            "y": 1646.25,
+            "w": 146.25,
+            "h": 157.5,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 737.8928527832031,
+            "y": 1590.857177734375,
+            "w": 323.21429443359375,
+            "h": 267.857177734375,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2385.681884765625,
+            "y": 1508.8636474609375,
+            "w": 34.0908203125,
+            "h": 84.0908203125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1455.4545288085938,
+            "y": 1531.5909423828125,
+            "w": 74.5455322265625,
+            "h": 135.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 59.5454528182745,
+            "y": 1554.3181762695312,
+            "w": 118.18181470036507,
+            "h": 203.1817626953125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

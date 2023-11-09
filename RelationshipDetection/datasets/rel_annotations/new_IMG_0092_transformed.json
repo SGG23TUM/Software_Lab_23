@@ -1,0 +1,89 @@
+{
+    "image_id": "IMG_0092",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 2089.5,
+            "y": 863.5,
+            "w": 1003.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 440.5,
+            "y": 409.75,
+            "w": 430.0,
+            "h": 819.5,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1046.7391510009766,
+            "y": 1046.9565124511719,
+            "w": 1541.3044128417969,
+            "h": 669.5652465820312,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1086.3536682128906,
+            "y": 362.95123291015625,
+            "w": 1035.2926635742188,
+            "h": 725.9024658203125,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 2192.9827880859375,
+            "y": 1020.7930908203125,
+            "w": 796.034423828125,
+            "h": 286.413818359375,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1029.5,
+            "y": 863.5,
+            "w": 2059.0,
+            "h": 1727.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        }
+    ]
+}

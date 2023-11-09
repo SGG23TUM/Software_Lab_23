@@ -1,0 +1,106 @@
+{
+    "image_id": "IMG_8886",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1192.0,
+            "y": 1590.1785888671875,
+            "w": 2384.0,
+            "h": 273.642822265625,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1461.75,
+            "y": 879.5,
+            "w": 682.5,
+            "h": 1215.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2452.0,
+            "y": 863.5,
+            "w": 278.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1190.25,
+            "y": 832.25,
+            "w": 2380.5,
+            "h": 1664.5,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 9,
+            "x": 2116.75,
+            "y": 880.75,
+            "w": 57.5,
+            "h": 327.5,
+            "names": [
+                "elevator button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 52.46913719177246,
+            "y": 959.25927734375,
+            "w": 58.02469253540039,
+            "h": 46.91357421875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1039.1304321289062,
+            "y": 613.04345703125,
+            "w": 81.7391357421875,
+            "h": 81.7391357421875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

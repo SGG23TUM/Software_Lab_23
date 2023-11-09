@@ -1,0 +1,78 @@
+{
+    "image_id": "IMG_9996",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 2192.0,
+            "y": 863.5,
+            "w": 798.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 836.0,
+            "y": 863.5,
+            "w": 1672.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 199.5,
+            "y": 1380.5,
+            "w": 399.0,
+            "h": 693.0,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1360.5,
+            "y": 1054.5,
+            "w": 1140.0,
+            "h": 1345.0,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 1732.75,
+            "y": 192.25,
+            "w": 134.5,
+            "h": 384.5,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        }
+    ]
+}

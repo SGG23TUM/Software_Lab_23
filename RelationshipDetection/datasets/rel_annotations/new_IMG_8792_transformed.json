@@ -1,0 +1,78 @@
+{
+    "image_id": "IMG_8792",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 5,
+            "x": 987.0,
+            "y": 1103.5,
+            "w": 1276.0,
+            "h": 1247.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 229.83870697021484,
+            "y": 1286.2903442382812,
+            "w": 145.16127014160156,
+            "h": 54.8387451171875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 2522.111083984375,
+            "y": 1559.7777709960938,
+            "w": 137.77783203125,
+            "h": 234.4444580078125,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 252.8985595703125,
+            "y": 901.8115844726562,
+            "w": 101.44927978515625,
+            "h": 103.6231689453125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

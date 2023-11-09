@@ -1,0 +1,89 @@
+{
+    "image_id": "IMG_0060",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 389.0,
+            "y": 863.5,
+            "w": 778.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2564.0,
+            "y": 863.5,
+            "w": 54.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1649.5,
+            "y": 863.5,
+            "w": 1807.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 596.9444274902344,
+            "y": 921.1666564941406,
+            "w": 152.77777099609375,
+            "h": 141.66668701171875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 507.81817626953125,
+            "y": 1075.7272338867188,
+            "w": 140.0,
+            "h": 76.3636474609375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 321.4545440673828,
+            "y": 1049.3636474609375,
+            "w": 116.36361694335938,
+            "h": 118.181884765625,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

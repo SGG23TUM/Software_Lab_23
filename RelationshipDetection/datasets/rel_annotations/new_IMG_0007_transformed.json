@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_0007",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1047.5,
+            "y": 863.5,
+            "w": 2095.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2553.22216796875,
+            "y": 716.8333129882812,
+            "w": 75.5556640625,
+            "h": 1433.6666259765625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2181.0,
+            "y": 1265.8888854980469,
+            "w": 820.0,
+            "h": 922.2222290039062,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 1122.3658752441406,
+            "y": 1280.1097412109375,
+            "w": 1775.6098022460938,
+            "h": 893.780517578125,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2308.719482421875,
+            "y": 816.6097412109375,
+            "w": 538.56103515625,
+            "h": 1633.219482421875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1922.6666870117188,
+            "y": 423.3333206176758,
+            "w": 173.3333740234375,
+            "h": 483.99998474121094,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 788.6666564941406,
+            "y": 266.0,
+            "w": 390.66668701171875,
+            "h": 348.0,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

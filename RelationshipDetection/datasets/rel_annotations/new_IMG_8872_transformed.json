@@ -1,0 +1,101 @@
+{
+    "image_id": "IMG_8872",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 504.3571472167969,
+            "w": 2591.0,
+            "h": 1008.7142944335938,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 1232.5,
+            "w": 2591.0,
+            "h": 989.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1760.6383056640625,
+            "y": 753.1914978027344,
+            "w": 158.156005859375,
+            "h": 131.91485595703125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 1195.0354614257812,
+            "y": 686.1702270507812,
+            "w": 113.4752197265625,
+            "h": 78.723388671875,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 589.71630859375,
+            "y": 665.2482299804688,
+            "w": 170.9219970703125,
+            "h": 147.5177001953125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1211.3474731445312,
+            "y": 29.078013867139816,
+            "w": 249.6453857421875,
+            "h": 56.73758798837662,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

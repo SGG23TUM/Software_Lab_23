@@ -1,0 +1,129 @@
+{
+    "image_id": "IMG_0089",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1448.5,
+            "y": 1073.25,
+            "w": 619.0,
+            "h": 1307.5,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2449.5,
+            "y": 1029.5,
+            "w": 283.0,
+            "h": 1395.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1864.2807006835938,
+            "y": 903.5087890625,
+            "w": 124.5614013671875,
+            "h": 196.4912109375,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1977.5590209960938,
+            "y": 1311.4172973632812,
+            "w": 57.4803466796875,
+            "h": 74.8031005859375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 1972.0472412109375,
+            "y": 1050.7873840332031,
+            "w": 111.023681640625,
+            "h": 123.62200927734375,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 605.9054870605469,
+            "y": 999.6062927246094,
+            "w": 111.02362060546875,
+            "h": 328.34649658203125,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 949.21875,
+            "y": 968.75,
+            "w": 292.1875,
+            "h": 609.375,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

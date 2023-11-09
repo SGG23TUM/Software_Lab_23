@@ -1,0 +1,128 @@
+{
+    "image_id": "IMG_8738",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1599.0,
+            "w": 2591.0,
+            "h": 256.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2516.8636474609375,
+            "y": 1044.9091186523438,
+            "w": 148.272705078125,
+            "h": 1147.8182373046875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 810.5454711914062,
+            "w": 2591.0,
+            "h": 1621.0909423828125,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 97.7272720336914,
+            "y": 1448.48486328125,
+            "w": 195.4545440673828,
+            "h": 57.57568359375,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 2330.1497802734375,
+            "y": 1058.801513671875,
+            "w": 120.224853515625,
+            "h": 44.94384765625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1749.5,
+            "y": 763.1785583496094,
+            "w": 550.0,
+            "h": 423.21429443359375,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 2359.54541015625,
+            "y": 755.6818237304688,
+            "w": 80.0,
+            "h": 82.272705078125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 142.7083282470703,
+            "y": 1257.8125,
+            "w": 285.4166564941406,
+            "h": 465.625,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 143.0555493235588,
+            "y": 1256.0185241699219,
+            "w": 282.40739500522614,
+            "h": 467.59259033203125,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

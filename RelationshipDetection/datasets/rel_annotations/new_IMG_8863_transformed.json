@@ -1,0 +1,112 @@
+{
+    "image_id": "IMG_8863",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1175.642822265625,
+            "y": 756.1428833007812,
+            "w": 2351.28564453125,
+            "h": 1512.2857666015625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2431.0,
+            "y": 781.2777709960938,
+            "w": 320.0,
+            "h": 1562.5555419921875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 406.6944351196289,
+            "y": 931.2420806884766,
+            "w": 535.8174285888672,
+            "h": 1077.1984558105469,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1675.392822265625,
+            "y": 860.4999847412109,
+            "w": 480.357177734375,
+            "h": 1214.2856750488281,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1077.1785583496094,
+            "y": 899.7857360839844,
+            "w": 351.78570556640625,
+            "h": 1032.1428833007812,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1563.5,
+            "w": 2591.0,
+            "h": 327.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 73.01587295532227,
+            "y": 677.3809509277344,
+            "w": 74.6031723022461,
+            "h": 78.57147216796875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

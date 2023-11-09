@@ -1,0 +1,50 @@
+{
+    "image_id": "IMG_0028",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 668.4375,
+            "y": 1008.3125,
+            "w": 478.875,
+            "h": 1437.375,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 15,
+            "x": 952.1111145019531,
+            "y": 1167.0,
+            "w": 108.88885498046875,
+            "h": 168.888916015625,
+            "names": [
+                "emergency switch button"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

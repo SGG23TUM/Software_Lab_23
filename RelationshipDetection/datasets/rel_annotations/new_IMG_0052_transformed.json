@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_0052",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1433.0555419921875,
+            "y": 567.0,
+            "w": 636.111083984375,
+            "h": 555.5555419921875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 185.44303512573242,
+            "y": 934.8101196289062,
+            "w": 213.9240493774414,
+            "h": 165.82275390625,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 17,
+            "x": 890.7767028808594,
+            "y": 793.6893310546875,
+            "w": 245.63104248046875,
+            "h": 700.0,
+            "names": [
+                "handrail"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1252.1785888671875,
+            "y": 1268.5357055664062,
+            "w": 1048.21435546875,
+            "h": 916.0714111328125,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 20,
+            "object_id": 17,
+            "predicate": "equipped with",
+            "relationship_id": 12
+        }
+    ]
+}

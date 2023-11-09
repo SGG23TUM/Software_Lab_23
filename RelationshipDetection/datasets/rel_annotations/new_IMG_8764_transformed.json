@@ -1,0 +1,180 @@
+{
+    "image_id": "IMG_8764",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1813.0,
+            "y": 419.8863525390625,
+            "w": 1556.0,
+            "h": 839.772705078125,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1071.1463012695312,
+            "y": 1499.6219482421875,
+            "w": 156.0975341796875,
+            "h": 454.756103515625,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1247.8902587890625,
+            "y": 1627.6707153320312,
+            "w": 75.780517578125,
+            "h": 198.6585693359375,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 197.76829528808594,
+            "y": 1024.0,
+            "w": 395.5365905761719,
+            "h": 1406.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2227.5400390625,
+            "y": 641.44384765625,
+            "w": 149.19775390625,
+            "h": 120.32080078125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 3,
+            "x": 2338.77001953125,
+            "y": 425.40106201171875,
+            "w": 120.32080078125,
+            "h": 77.54010009765625,
+            "names": [
+                "speaker"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 2474.33154296875,
+            "y": 202.1390380859375,
+            "w": 203.20849609375,
+            "h": 179.67913818359375,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 2502.111083984375,
+            "y": 1679.2222290039062,
+            "w": 177.77783203125,
+            "h": 95.5555419921875,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 16,
+            "x": 1901.0,
+            "y": 1680.3333129882812,
+            "w": 488.0,
+            "h": 93.3333740234375,
+            "names": [
+                "elevator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 460.2142791748047,
+            "y": 1704.4642944335938,
+            "w": 96.42855834960938,
+            "h": 45.0714111328125,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 3,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 16,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}

@@ -1,0 +1,151 @@
+{
+    "image_id": "IMG_8719",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 1295.5,
+            "y": 1426.725830078125,
+            "w": 2591.0,
+            "h": 600.54833984375,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 64.03571319580078,
+            "y": 829.0892791748047,
+            "w": 128.07142639160156,
+            "h": 644.3214416503906,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 507.8740234375,
+            "y": 623.4375,
+            "w": 1015.748046875,
+            "h": 1246.875,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1047.5308837890625,
+            "y": 1221.60498046875,
+            "w": 235.802490234375,
+            "h": 65.43212890625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1718.7777709960938,
+            "y": 691.0,
+            "w": 1744.4444580078125,
+            "h": 1382.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 272.1666564941406,
+            "y": 761.4444427490234,
+            "w": 544.3333129882812,
+            "h": 851.1111145019531,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 19,
+            "x": 829.8888854980469,
+            "y": 193.66666667163372,
+            "w": 51.11114501953125,
+            "h": 386.66666665673256,
+            "names": [
+                "pipes"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 2552.8409423828125,
+            "y": 549.9999847412109,
+            "w": 73.863525390625,
+            "h": 415.9090881347656,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 336.6666564941406,
+            "y": 155.9999949336052,
+            "w": 417.33331298828125,
+            "h": 309.33332312107086,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 1095.0331115722656,
+            "y": 1035.099365234375,
+            "w": 330.46356201171875,
+            "h": 463.576171875,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 19,
+            "object_id": 4,
+            "predicate": "next to",
+            "relationship_id": 5
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

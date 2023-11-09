@@ -1,0 +1,157 @@
+{
+    "image_id": "IMG_0073",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1219.0,
+            "y": 863.5,
+            "w": 2438.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 182.0,
+            "y": 1529.5,
+            "w": 364.0,
+            "h": 395.0,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1285.5,
+            "y": 1019.5,
+            "w": 130.0,
+            "h": 330.0,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1993.25,
+            "y": 863.5,
+            "w": 1195.5,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 245.5,
+            "y": 296.0,
+            "w": 491.0,
+            "h": 592.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 839.7192993164062,
+            "y": 255.2631549835205,
+            "w": 177.1929931640625,
+            "h": 436.842098236084,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 354.7413787841797,
+            "y": 550.0000152587891,
+            "w": 88.79312133789062,
+            "h": 246.55172729492188,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 154.74138259887695,
+            "y": 672.8448181152344,
+            "w": 64.6551742553711,
+            "h": 169.82757568359375,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 50.000000953674316,
+            "y": 743.1034240722656,
+            "w": 46.55172538757324,
+            "h": 131.03448486328125,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1321.8214111328125,
+            "y": 1571.2142944335938,
+            "w": 51.78564453125,
+            "h": 107.1429443359375,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

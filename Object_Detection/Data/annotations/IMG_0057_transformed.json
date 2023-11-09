@@ -1,0 +1,1 @@
+{"image_id": "IMG_0057", "width": 2592, "height": 1728, "coco_id": null, "flickr_id": null, "objects": [{"object_id": 4, "x": 1295.5, "y": 863.5, "w": 2591.0, "h": 1727.0, "names": ["wall"], "synsets": []}, {"object_id": 21, "x": 863.4375, "y": 666.6875, "w": 1561.125, "h": 1333.375, "names": ["window"], "synsets": []}]}

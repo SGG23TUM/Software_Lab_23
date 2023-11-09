@@ -1,0 +1,54 @@
+{
+    "image_id": "IMG_9100",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 1,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 2,
+            "x": 1855.5555419921875,
+            "y": 400.79364013671875,
+            "w": 463.491943359375,
+            "h": 474.6031494140625,
+            "names": [
+                "lighting"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 6,
+            "x": 974.2753601074219,
+            "y": 1375.7246704101562,
+            "w": 106.52178955078125,
+            "h": 115.2174072265625,
+            "names": [
+                "smoke alarm"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 2,
+            "object_id": 1,
+            "predicate": "fixed on"
+        },
+        {
+            "subject_id": 6,
+            "object_id": 1,
+            "predicate": "has opening in"
+        }
+    ]
+}

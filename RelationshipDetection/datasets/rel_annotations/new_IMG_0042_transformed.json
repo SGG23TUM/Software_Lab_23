@@ -1,0 +1,123 @@
+{
+    "image_id": "IMG_0042",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 165.82278060913086,
+            "y": 1489.8734130859375,
+            "w": 296.20252227783203,
+            "h": 65.82275390625,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 8,
+            "x": 621.5189819335938,
+            "y": 1408.2278442382812,
+            "w": 612.658203125,
+            "h": 479.7469482421875,
+            "names": [
+                "trash bin"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 909.49365234375,
+            "y": 1576.7911376953125,
+            "w": 1818.9873046875,
+            "h": 300.417724609375,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 2408.77783203125,
+            "y": 822.0,
+            "w": 364.4443359375,
+            "h": 510.0,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1342.1666870117188,
+            "y": 191.27777099609375,
+            "w": 515.6666259765625,
+            "h": 382.5555419921875,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 22,
+            "x": 162.1666717529297,
+            "y": 1287.1666870117188,
+            "w": 324.3333435058594,
+            "h": 466.3333740234375,
+            "names": [
+                "radiator"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1003.1007690429688,
+            "y": 1112.4031372070312,
+            "w": 34.1085205078125,
+            "h": 38.7596435546875,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 8,
+            "object_id": 7,
+            "predicate": "placed on",
+            "relationship_id": 11
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        }
+    ]
+}

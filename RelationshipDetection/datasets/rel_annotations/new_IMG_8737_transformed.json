@@ -1,0 +1,106 @@
+{
+    "image_id": "IMG_8737",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 7,
+            "x": 56.89285659790039,
+            "y": 1723.2142944335938,
+            "w": 113.78571319580078,
+            "h": 7.5714111328125,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2187.5,
+            "y": 1217.0,
+            "w": 807.0,
+            "h": 1020.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 1,
+            "x": 214.0,
+            "y": 27.94444465637207,
+            "w": 424.0,
+            "h": 55.88888931274414,
+            "names": [
+                "ceiling"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 14,
+            "x": 1665.1219482421875,
+            "y": 1287.0731811523438,
+            "w": 114.634033203125,
+            "h": 43.4146728515625,
+            "names": [
+                "light switch"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1104.8571472167969,
+            "y": 988.1785888671875,
+            "w": 532.1428833007812,
+            "h": 412.5,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 13,
+            "x": 1698.8636474609375,
+            "y": 992.0454406738281,
+            "w": 76.818115234375,
+            "h": 77.72723388671875,
+            "names": [
+                "door sign"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 14,
+            "object_id": 4,
+            "predicate": "mounted on",
+            "relationship_id": 2
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        }
+    ]
+}

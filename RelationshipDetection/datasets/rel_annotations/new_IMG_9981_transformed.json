@@ -1,0 +1,78 @@
+{
+    "image_id": "IMG_9981",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 900.0,
+            "y": 863.5,
+            "w": 1800.0,
+            "h": 1727.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 4,
+            "x": 2490.75,
+            "y": 720.0,
+            "w": 200.5,
+            "h": 1440.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 7,
+            "x": 2482.5,
+            "y": 1568.25,
+            "w": 217.0,
+            "h": 317.5,
+            "names": [
+                "floor"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 2115.5,
+            "y": 863.5,
+            "w": 830.0,
+            "h": 1727.0,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 12,
+            "x": 1514.25,
+            "y": 899.5,
+            "w": 277.5,
+            "h": 770.0,
+            "names": [
+                "fire extinguisher"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 12,
+            "object_id": 4,
+            "predicate": "attached to",
+            "relationship_id": 14
+        }
+    ]
+}

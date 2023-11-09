@@ -1,0 +1,84 @@
+{
+    "image_id": "IMG_0061",
+    "width": 2592,
+    "height": 1728,
+    "coco_id": null,
+    "flickr_id": null,
+    "objects": [
+        {
+            "object_id": 4,
+            "x": 1582.0,
+            "y": 384.5,
+            "w": 2018.0,
+            "h": 769.0,
+            "names": [
+                "wall"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 656.565673828125,
+            "y": 160.10100746154785,
+            "w": 151.51513671875,
+            "h": 253.53535079956055,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 11,
+            "x": 1066.3120727539062,
+            "y": 442.5531768798828,
+            "w": 275.8865966796875,
+            "h": 180.14181518554688,
+            "names": [
+                "board"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 20,
+            "x": 1295.5,
+            "y": 863.5,
+            "w": 2591.0,
+            "h": 1727.0,
+            "names": [
+                "staircase"
+            ],
+            "synsets": []
+        },
+        {
+            "object_id": 5,
+            "x": 1378.4884033203125,
+            "y": 344.7674331665039,
+            "w": 38.3720703125,
+            "h": 373.2557830810547,
+            "names": [
+                "door"
+            ],
+            "synsets": []
+        }
+    ],
+    "relationships": [
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        },
+        {
+            "subject_id": 11,
+            "object_id": 4,
+            "predicate": "fixed on",
+            "relationship_id": 13
+        },
+        {
+            "subject_id": 5,
+            "object_id": 4,
+            "predicate": "has opening in",
+            "relationship_id": 9
+        }
+    ]
+}
