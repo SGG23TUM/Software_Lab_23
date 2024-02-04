@@ -28,7 +28,7 @@ def compute_metrics(predictions, targets, num_classes=24):
         for label, score in zip(pred['labels'], pred['scores']):
             if score > 0.5:
                 all_preds.append(label.item())
-                all_targets.append(target['labels'][0].item())  # Assuming each image has one target label
+                all_targets.append(target['labels'][0].item()) 
 
     conf_matrix = confusion_matrix(all_targets, all_preds, labels=list(range(num_classes)))
     acc = accuracy_score(all_targets, all_preds)
