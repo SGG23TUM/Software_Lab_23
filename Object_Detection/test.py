@@ -1,5 +1,5 @@
 import torch
-#from sklearn.metrics import confusion_matrix, accuracy_score
+from sklearn.metrics import confusion_matrix, accuracy_score
 import numpy as np
 
 def evaluate(model, data_loader, device):
@@ -20,7 +20,7 @@ def evaluate(model, data_loader, device):
     return all_predictions, all_targets
 
 
-#def compute_metrics(predictions, targets, num_classes=24):
+def compute_metrics(predictions, targets, num_classes=24):
     all_preds = []
     all_targets = []
 
